@@ -40,7 +40,7 @@ require (
 	golang.org/x/sync v0.16.0
 	k8s.io/api v0.31.12
 	k8s.io/apiextensions-apiserver v0.31.12
-	k8s.io/apimachinery v0.31.12
+	k8s.io/apimachinery v0.31.14
 	k8s.io/apiserver v0.31.12
 	k8s.io/client-go v0.31.12
 	k8s.io/utils v0.0.0-20240921022957-49e7df575cb6
