@@ -38,11 +38,11 @@ require (
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.38.0
 	golang.org/x/sync v0.16.0
-	k8s.io/api v0.31.12
+	k8s.io/api v0.31.14
 	k8s.io/apiextensions-apiserver v0.31.12
-	k8s.io/apimachinery v0.31.12
-	k8s.io/apiserver v0.31.12
-	k8s.io/client-go v0.31.12
+	k8s.io/apimachinery v0.31.14
+	k8s.io/apiserver v0.31.14
+	k8s.io/client-go v0.31.14
 	k8s.io/utils v0.0.0-20240921022957-49e7df575cb6
 	knative.dev/hack v0.0.0-20250116150306-c142b4835bc5
 	knative.dev/hack/schema v0.0.0-20250116150306-c142b4835bc5
