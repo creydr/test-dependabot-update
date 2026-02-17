@@ -12,7 +12,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/coreos/go-oidc/v3 v3.9.0
 	github.com/eclipse/paho.golang v0.12.0
-	github.com/go-jose/go-jose/v3 v3.0.3
+	github.com/go-jose/go-jose/v3 v3.0.4
 	github.com/google/go-cmp v0.6.0
 	github.com/google/gofuzz v1.2.0
 	github.com/google/uuid v1.6.0
@@ -35,7 +35,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.uber.org/atomic v1.10.0
 	go.uber.org/multierr v1.11.0
-	go.uber.org/zap v1.27.0
+	go.uber.org/zap v1.27.1
 	golang.org/x/net v0.35.0
 	golang.org/x/sync v0.11.0
 	k8s.io/api v0.32.2
